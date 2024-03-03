@@ -1,5 +1,3 @@
-"use client";
-
 import React from "react";
 import ContactFormInput from "./Contact/ContactFormInput";
 import ContactInfo from "./Contact/ContactInfo";

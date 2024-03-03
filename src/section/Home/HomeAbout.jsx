@@ -24,39 +24,39 @@ export default function HomeAbout() {
           </p>
         </div>
         <div className="relative w-1/3 mt-10 max-md:w-full cursor-pointer flex justify-center items-center rounded-md">
-          <div class="grid grid-cols-2 gap-5 max-w-6xl mx-auto">
-            <div class="2xl-mt-20 -mt-32 flex justify-end">
+          <div className="grid grid-cols-2 gap-5 max-w-6xl mx-auto">
+            <div className="2xl-mt-20 -mt-32 flex justify-end">
               <img
-                class="w-2/3 h-1/3 object-cover rounded-lg overflow-hidden"
+                className="w-2/3 h-1/3 object-cover rounded-lg overflow-hidden"
                 src="https://e0.pxfuel.com/wallpapers/209/716/desktop-wallpaper-untitled-airplane-sky-aesthetic-travel-thumbnail.jpg"
               />
             </div>
-            <div class="flex justify-start">
+            <div className="flex justify-start">
               <img
-                class="rounded-lg object-cover overflow-hidden"
+                className="rounded-lg object-cover overflow-hidden"
                 src="https://i.pinimg.com/564x/20/09/fd/2009fd281e877ef79a1af645c7ab43f6.jpg"
               />
             </div>
-            <div class="-mt-64  flex justify-start">
+            <div className="-mt-64  flex justify-start">
               <img
-                class="rounded-lg object-cover overflow-hidden"
+                className="rounded-lg object-cover overflow-hidden"
                 src="https://images.unsplash.com/photo-1533557950217-8768f2ee7491?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
               />
             </div>
-            <div class="flex justify-start -mr-28 ml-28">
+            <div className="flex justify-start -mr-28 ml-28">
               <img
-                class="w-2/3 h-2/3 object-cover rounded-lg overflow-hidden"
+                className="w-2/3 h-2/3 object-cover rounded-lg overflow-hidden"
                 src="https://i.pinimg.com/236x/ed/ce/ac/edceac082fbd42f7612c57f0a32637af.jpg"
               />
             </div>
-            <div class="-translate-y-56 transform ml-28 -mr-28 p-4 flex justify-between flex-col shadow-xl rounded-xl overflow-hidden bg-purple-200">
+            <div className="-translate-y-56 transform ml-28 -mr-28 p-4 flex justify-between flex-col shadow-xl rounded-xl overflow-hidden bg-purple-200">
               <div className="py-2">
-                <p class="text-4xl font-bold font-CooperHewitt flex justify-center items-center gap-5 text-black">
+                <p className="text-4xl font-bold font-CooperHewitt flex justify-center items-center gap-5 text-black">
                   2m+ <span className="text-lg font-CooperHewitt">views</span>
                 </p>
               </div>
               <div className="py-2">
-                <p class="text-4xl font-bold font-CooperHewitt flex justify-center items-center gap-5 text-black">
+                <p className="text-4xl font-bold font-CooperHewitt flex justify-center items-center gap-5 text-black">
                   17m+ <span className="text-lg font-CooperHewitt">likes</span>
                 </p>
               </div>
